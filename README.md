@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Fireforms Client](https://github.com/seananth/fireforms-client)
 
-- 🔭 I’m currently working on [Fireforms Backend](https://github.com/seananth/Fireforms-heroku)
-
 - 📫 How to reach me **seansafstrom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
