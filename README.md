@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Fireforms Backend](https://github.com/seananth/Fireforms-heroku)
 
-- 👨‍💻 All of my projects are available at [https://seananth.github.io/](https://seananth.github.io/)
-
 - 📫 How to reach me **seansafstrom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
