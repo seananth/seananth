@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on [Fireforms](https://fireforms.io/)
-- [Fireforms Client](https://github.com/seananth/fireforms-client)
 
 - 📫 How to reach me **seansafstrom@gmail.com**
 
