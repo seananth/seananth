@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Sean</h1>
-<h3 align="center">A Javascript developer from Sweden</h3>
+<h1 align="center">👋 Hi, I'm Sean!</h1>
+<h3 align="center">I'm a self-taught Javascript developer from Sweden</h3>
 
 
 - 🔭 I’m currently working on [Fireforms](https://fireforms.io/)
