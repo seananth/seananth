@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Javascript developer working on various projects</h3>
 
 
-- 🔭 I’m currently working on [Fireforms](https://fireforms.io/)
+- 🔭 I’m currently working on [Ducktize](https://ducktize.com/)
+- prev worked on [Fireforms](https://fireforms.io/)
 
 - 📫 How to reach me **seansafstrom@gmail.com**
 
