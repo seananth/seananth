@@ -2,9 +2,10 @@
 <h3 align="center">I'm a Javascript developer working on various projects</h3>
 
 
-🔭 I’m currently working on [SpotEnt](https://spotent.co/)
+🔭 I’m currently working on [SESnap](https://sesnap.com/)
 
 🔧 Some projects I've worked on:
+  - [SpotEnt](https://spotent.co/)
   - [SpaceToast](https://spacetoast.co/)
   - [Ducktize](https://ducktize.com/) 
   - [Fireforms](https://fireforms.io/)
