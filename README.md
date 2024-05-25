@@ -4,15 +4,10 @@
 
 🔭 I’m currently working on [SESnap](https://sesnap.com/)
 
-🔧 Some projects I've worked on:
-  - [SpotEnt](https://spotent.co/)
-  - [SpaceToast](https://spacetoast.co/)
-  - [Ducktize](https://ducktize.com/) 
-  - [Fireforms](https://fireforms.io/)
+🚧 Some projects I've worked on: [Link](https://seananth.github.io/)
 
 📫 How to reach me **seansafstrom@gmail.com**
 
-🚧 Some projects I've worked on: [Link](https://seananth.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
