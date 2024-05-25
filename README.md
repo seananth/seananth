@@ -12,6 +12,8 @@
 
 📫 How to reach me **seansafstrom@gmail.com**
 
+🚧 Some projects I've worked on: [Link](https://seananth.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sean-säfström" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean-säfström" height="30" width="40" /></a>
