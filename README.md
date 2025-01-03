@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Javascript developer working on various projects</h3>
 
 
-🔭 I’m currently working on [CopyFlow Pro](https://www.copyflowpro.com/)
+🔭 I’m currently working on [Spotent 2.0](https://www.spotent.co/)
 
 🚧 Some projects I've worked on: [Link](https://seananth.github.io/)
 
