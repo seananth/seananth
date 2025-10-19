@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Sunboard](https://sunboardhq.com/) - All the tools you need to turn new signups into long-term customers.
 
-🚧 Some projects I've worked on: [Link](https://seananth.github.io/)
+🚧 Some projects I've worked on: [Link](https://seansafstrom.com)
 
 📫 How to reach me **seansafstrom@gmail.com**
 
