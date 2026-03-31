@@ -2,7 +2,10 @@
 <h3 align="center">I'm a Javascript developer working on various projects</h3>
 
 
-🔭 I’m currently working on [Sunboard](https://sunboardhq.com/) - All the tools you need to turn new signups into long-term customers.
+🔭 I’m currently working on 
+- [Hachigo](https://hachigo.co/) - Build reliable AI automations in minutes with a simple conversation. No coding needed.
+- [Sunboard](https://sunboardhq.com/) - All the tools you need to turn new signups into long-term customers.
+
 
 🚧 Some projects I've worked on: [Link](https://seansafstrom.com)
 
