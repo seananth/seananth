@@ -3,8 +3,7 @@
 
 
 🔭 I’m currently working on 
-- [Hachigo](https://hachigo.co/) - Build reliable AI automations in minutes with a simple conversation. No coding needed.
-- [Sunboard](https://sunboardhq.com/) - All the tools you need to turn new signups into long-term customers.
+- [Sunboard](https://sunboardhq.com/) - Sunboard turns the agent you already use into a customer success expert. It builds your onboarding, watches your funnel, and improves it every week.
 
 
 🚧 Some projects I've worked on: [Link](https://seansafstrom.com)
