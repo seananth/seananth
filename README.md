@@ -3,7 +3,7 @@
 
 
 🔭 I’m currently working on 
-- [Sunboard](https://sunboardhq.com/) - Sunboard turns the agent you already use into a customer success expert. It builds your onboarding, watches your funnel, and improves it every week.
+- [Sunboard](https://sunboardhq.com/) - Sunboard gives SaaS teams an AI support agent that guides users through the product instead of sending them a help article.
 
 
 🚧 Some projects I've worked on: [Link](https://seansafstrom.com)
